@@ -6,5 +6,8 @@ public class MainPoint {
 		// coments
 		System.out.print("Helloworld!");
 		System.out.print("Helloworld!");
+		
+		System.out.print("Master!");
+		System.out.print("Master!");
 	}
 }
