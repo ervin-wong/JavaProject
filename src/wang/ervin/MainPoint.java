@@ -11,5 +11,6 @@ public class MainPoint {
 		
 		System.out.print("Master!");
 		System.out.print("Master!");
+		// test
 	}
 }
