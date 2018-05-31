@@ -8,5 +8,8 @@ public class MainPoint {
 		System.out.print("Helloworld!");
 		// 
 		System.out.print("develop branch");
+		
+		System.out.print("Master!");
+		System.out.print("Master!");
 	}
 }
